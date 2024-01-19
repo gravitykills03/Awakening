@@ -1,0 +1,164 @@
+{
+  "camera": {
+    "name": "camera",
+    "description": "My camera. No pictures on it. I use its light to see around me. Hope it doesn't run out of batteries...Ω",
+    "startLocation": "Basement",
+    "specialItemFlag": "false",
+    "charge": "50",
+    "attackPoints": "10",
+    "healPoints": "0"
+  },
+  "cellPhone": {
+    "name": "cellphone",
+    "description": "Dead phone, needs charge.",
+    "startLocation": "Basement",
+    "specialItemFlag": "false",
+    "charge": "0",
+    "attackPoints": "3",
+    "healPoints": "0"
+  },
+  "frontDoorKey": {
+    "name": "key",
+    "description": "Key to the front door. Hopefully now I can get out of here.",
+    "startLocation": "Side Table",
+    "specialItemFlag": "true",
+    "charge": "0",
+    "attackPoints": "0",
+    "healPoints": "0"
+  },
+  "journal": {
+    "name": "journal",
+    "description": "This is my journal... I read it and remember going to the hospital to confront the doctor... About what though?",
+    "startLocation": "",
+    "specialItemFlag": "false",
+    "charge": "0",
+    "attackPoints": "0",
+    "healPoints": "0"
+  },
+  "batteries": {
+    "name": "batteries",
+    "description": "Old batteries... Hope they have some juice left.",
+    "startLocation": "Desk",
+    "specialItemFlag": "false",
+    "charge": "100",
+    "attackPoints": "0",
+    "healPoints": "0"
+  },
+  "patientFile": {
+    "name": "file",
+    "description": "You read the file... Patient is Jessica Smith. Held for mental health examination. Room 103. Door code is ####. The rest is illegible. Maybe her room will have an answer?",
+    "startLocation": "Filing Cabinet",
+    "specialItemFlag": "false",
+    "charge": "0",
+    "attackPoints": "0",
+    "healPoints": "0"
+  },
+  "bandages": {
+    "name": "bandages",
+    "description": "Old Bandages... Hope I won't have to use these.",
+    "startLocation": "Emergency Room",
+    "specialItemFlag": "false",
+    "charge": "0",
+    "attackPoints": "0",
+    "healPoints": "5"
+  },
+  "pressPass": {
+    "name": "press-pass",
+    "description": "This belonged to someone... The picture is of me? I'm this person? I need to get out of here.",
+    "startLocation": "Side Table",
+    "specialItemFlag": "false",
+    "charge": "0",
+    "attackPoints": "0",
+    "healPoints": "0"
+  },
+  "picture": {
+    "name": "picture",
+    "description": "This picture...I have seen it before. Why does it look familiar?",
+    "startLocation": "Stairs",
+    "specialItemFlag": "false",
+    "charge": "0",
+    "attackPoints": "0",
+    "healPoints": "0"
+  },
+  "fireExtinguisher": {
+    "name": "fire-extinguisher",
+    "description": "This is heavy, but also has a charge so it might come in handy.",
+    "startLocation": "Upper Hallway",
+    "specialItemFlag": "false",
+    "charge": "0",
+    "attackPoints": "3",
+    "healPoints": "0"
+  },
+  "axe": {
+    "name": "axe",
+    "description": "The blade is dull, but it can generate a lot of force.",
+    "startLocation": "Upper Hallway",
+    "specialItemFlag": "false",
+    "charge": "0",
+    "attackPoints": "5",
+    "healPoints": "0"
+  },
+  "firstAidKit": {
+    "name": "first-aid-kit",
+    "description": "This has everything I need to ensure I can fix up any wounds.",
+    "startLocation": "Pharmacy",
+    "specialItemFlag": "false",
+    "charge": "0",
+    "attackPoints": "0",
+    "healPoints": "20"
+  },
+  "barbell": {
+    "name": "barbell",
+    "description": "It's a good thing I am pretty strong. I could probably throw this at something....",
+    "startLocation": "Desk",
+    "specialItemFlag": "false",
+    "charge": "0",
+    "attackPoints": "5",
+    "healPoints": "0"
+  },
+  "woodCane": {
+    "name": "wood-cane",
+    "description": "This is very well built and easy to swing around.",
+    "startLocation": "Desk",
+    "specialItemFlag": "false",
+    "charge": "0",
+    "attackPoints": "5",
+    "healPoints": "0"
+  },
+  "masterKey": {
+    "name": "master-key",
+    "description": "This says Master on it. I think it will open up all of the rooms in this place....",
+    "startLocation": "Desk",
+    "specialItemFlag": "true",
+    "charge": "0",
+    "attackPoints": "0",
+    "healPoints": "0"
+  },
+  "paperClip": {
+    "name": "paper-clip",
+    "description": "Paper clip. All I need to open simple locks... How do I know this?",
+    "startLocation": "Desk",
+    "specialItemFlag": "true",
+    "charge": "0",
+    "attackPoints": "0",
+    "healPoints": "0"
+  },
+  "tylenol": {
+    "name": "tylenol",
+    "description": "This will help me feel better if I get injured.",
+    "startLocation": "Finance",
+    "specialItemFlag": "false",
+    "charge": "0",
+    "attackPoints": "0",
+    "healPoints": "10"
+  },
+  "recordsKey": {
+    "name": "records-key",
+    "description": "This looks like a key to get me into something....",
+    "startLocation": "Finance",
+    "specialItemFlag": "true",
+    "charge": "0",
+    "attackPoints": "0",
+    "healPoints": "0"
+  }
+}
